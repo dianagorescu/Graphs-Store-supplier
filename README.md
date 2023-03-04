@@ -1,2 +1,2 @@
-# Graphs-Store supply
+# Graphs-Store supplies
 Data Structures and Algorithms
